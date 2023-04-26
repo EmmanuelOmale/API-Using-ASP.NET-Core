@@ -1,0 +1,102 @@
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Data.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Models.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Models.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\bin\Debug\net6.0\Data.dll
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\bin\Debug\net6.0\Models.dll
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\bin\Debug\net6.0\Models.pdb
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\Data.dll
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\donpa\Desktop\Don-Pat\.NET\New folder\TutorialHell\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.dll
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Models.dll
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Models.pdb
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.dll
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\donpa\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.dll
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\bin\Debug\net6.0\Models.dll
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\bin\Debug\net6.0\Models.pdb
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.dll
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\HP\Downloads\Emma\Emma\TutorialHell\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.dll
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Models.dll
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\bin\Debug\net6.0\Models.pdb
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.dll
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\Emma\TutorialHell\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Data.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Models.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\bin\Debug\net6.0\Models.pdb
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\github\Weekly Tasks\TutorialHell\Data\obj\Debug\net6.0\ref\Data.dll
